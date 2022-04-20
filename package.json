@@ -1,0 +1,14 @@
+{
+  "name": "Myblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lym0518",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.39"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
